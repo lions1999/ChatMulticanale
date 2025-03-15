@@ -1,0 +1,1 @@
+versione di java utilizzata è openjdk-19.0.1
